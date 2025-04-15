@@ -15,4 +15,3 @@ Race-wise analysis indicates varying impacts of COVID-19 across different commun
 A clear correlation exists between hospitalization and death rates, emphasizing the importance of healthcare access.
 🛠️ Tools Used: Python | Pandas | Matplotlib | Seaborn
 
-This project not only deepened my skills in exploratory data analysis and data visualization but also reinforced the importance of data-driven insights in public health.
